@@ -91,3 +91,7 @@
 ![](./wise%20presentation-02.png)
 
 ![](./wise%20presentation-03.png)
+
+# Background
+
+![](./background-tiles-wise-logo.png)
