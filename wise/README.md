@@ -70,3 +70,12 @@
 
 ### 16px
 ![](./wise-logo-white_16x16.ico)
+
+
+# Slides/Presentation
+
+![](./wise presentation-01.png)
+
+![](./wise presentation-02.png)
+
+![](./wise presentation-03.png)
