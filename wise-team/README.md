@@ -1,11 +1,8 @@
-
-
 # Wise-Team logotype
-
 
 ## Full color
 
-# SVG
+### SVG
 ![](./wise-team-logotype-color.svg)
 
 ### PNG (1024px width)
@@ -22,7 +19,7 @@
 
 ## White color
 
-# SVG
+### SVG
 ![](./wise-team-logotype-white.svg)
 
 ### PNG (1024px width)
