@@ -74,8 +74,8 @@
 
 # Slides/Presentation
 
-![](./wise presentation-01.png)
+![](./wise%20presentation-01.png)
 
-![](./wise presentation-02.png)
+![](./wise%20presentation-02.png)
 
-![](./wise presentation-03.png)
+![](./wise%20presentation-03.png)
